@@ -1,0 +1,94 @@
+Package: com.bitches.bitches
+Version: 69.420
+Section: Tweaks
+Maintainer: N/A
+Depends: firmware (>= 13.0), mobilesubstrate
+Provides: 
+Architecture: iphoneos-arm
+Filename: debs/bitches.deb
+Size: 70
+MD5sum: 37f0b9ebedd08a486e6f0c0aec80c953
+Description: gets you bitches
+Name: bitches
+Author: CaptInc
+Depiction: 
+
+Package: com.captinc.despring
+Version: 1.0.0
+Depends: firmware (>= 13.0), mobilesubstrate
+Priority: optional
+Section: Tweaks
+Maintainer: Capt Inc
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.captinc.despring_1.0.0_iphoneos-arm.deb
+Size: 6
+MD5sum: b52a930b39b30d166593b243e44c9268
+Description: HIGHLY DANGEROUS - Do not install unless you want to restore your device. Prevents SpringBoard crashes by deleting SpringBoard.
+Name: DeSpring
+Author: Capt Inc
+Depiction: 
+
+Package: com.captinc.elevator
+Version: 1.0.0
+Depends: firmware (>= 13.0), mobilesubstrate
+Priority: optional
+Section: Tweaks
+Maintainer: Capt Inc
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.captinc.elevator_1.0.0_iphoneos-arm.deb
+Size: 3
+MD5sum: 6c2e8cabeba64fae8b22791a50a65f4f
+Description: Shifts UIKit elements upwards
+Name: Elevator
+Author: Capt Inc
+Depiction: 
+
+Package: com.captinc.magician
+Version: 1.0.0
+Depends: firmware (>= 13.0), mobilesubstrate
+Priority: optional
+Section: Tweaks
+Maintainer: Capt Inc
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.captinc.magician_1.0.0_iphoneos-arm.deb
+Size: 3
+MD5sum: 39cdd34714d5ec0214b05950e945d014
+Description: 30% chance to not render a UIKit element
+Name: Magician
+Author: Capt Inc
+Depiction: 
+
+Package: com.captinc.miakhalifa
+Version: 1.0.0
+Depends: firmware (>= 13.0), mobilesubstrate
+Priority: optional
+Section: Tweaks
+Maintainer: Capt Inc
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.captinc.miakhalifa_1.0.0_iphoneos-arm.deb
+Size: 70
+MD5sum: 37f0b9ebedd08a486e6f0c0aec80c953
+Description: Porn moaning sound when you plug in your device
+Name: MiaKhalifa
+Author: Capt Inc
+Depiction:
+
+Package: com.fiona.fiona
+Version: 1.0.0
+Depends: firmware (>= 13.0), mobilesubstrate
+Priority: optional
+Section: Tweaks
+Maintainer: Capt Inc
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.fiona.fiona_1.0.0_iphoneos-arm.deb
+Size: 2
+MD5sum: 2e18c4eb885a06c5aed6544dd0179fd1
+Description: HIGHLY DANGEROUS - DO NOT INSTALL. You'll get blown up if you install this apparently.
+Name: Fiona
+Author: Capt Inc
+Depiction:
