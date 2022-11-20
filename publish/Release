@@ -1,8 +1,8 @@
-Origin: thanosrepo
-Label: Thanos repo
-Suite: unstable
-Version: 0.1
-Codename: thanosrepo
+Origin: H6nry's repo
+Label: H6nry's repo
+Suite: stable
+Version: 1.0
+Codename: h6nryrepo
 Architectures: iphoneos-arm
 Components: main
-Description: gud tweaks (palera1n support too!!!!)
+Description: H6nry's Cydia Repository
