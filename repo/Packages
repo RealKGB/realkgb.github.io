@@ -5,7 +5,7 @@ Maintainer: N/A
 Depends: firmware (>= 13.0), mobilesubstrate
 Provides: 
 Architecture: iphoneos-arm
-Filename: debs/bitches.deb
+Filename: debs/com.bitches.bitches.deb
 Size: 70
 MD5sum: 37f0b9ebedd08a486e6f0c0aec80c953
 Description: gets you bitches
