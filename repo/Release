@@ -1,0 +1,8 @@
+Origin: thanosrepo
+Label: Thanos repo
+Suite: unstable
+Version: 0.1
+Codename: thanosrepo
+Architectures: iphoneos-arm
+Components: main
+Description: gud tweaks (palera1n support too!!!!)
