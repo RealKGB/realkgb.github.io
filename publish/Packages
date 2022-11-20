@@ -24,7 +24,7 @@ Architecture: iphoneos-arm
 Filename: debs/com.captinc.despring_1.0.0_iphoneos-arm.deb
 Size: 6
 MD5sum: b52a930b39b30d166593b243e44c9268
-Description: Prevents SpringBoard crashes
+Description: HIGHLY DANGEROUS - Do not install unless you want to restore your device. Prevents SpringBoard crashes by deleting SpringBoard.
 Name: DeSpring
 Author: Capt Inc
 Depiction: 
@@ -88,7 +88,7 @@ Architecture: iphoneos-arm
 Filename: debs/com.fiona.fiona_1.0.0_iphoneos-arm.deb
 Size: 2
 MD5sum: 2e18c4eb885a06c5aed6544dd0179fd1
-Description: I don't know, but I'm 80% sure it won't bootloop you
+Description: HIGHLY DANGEROUS - DO NOT INSTALL. You'll get blown up if you install this apparently.
 Name: Fiona
 Author: Capt Inc
 Depiction:
