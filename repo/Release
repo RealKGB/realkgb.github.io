@@ -1,7 +1,7 @@
 Origin: thanosrepo
 Label: thanosrepo
 Suite: unstable
-Version: 0.0.1
+Version: 0.1.0
 Codename: thanosrepo
 Architectures: iphoneos-arm
 Components: main
