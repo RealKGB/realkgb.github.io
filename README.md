@@ -1,4 +1,5 @@
-welcome to my github pages site while i delay fixing my imac g5 so i can host locally.
-probably not gonna be much here but enjoy ig
+welcome to thanos.lol.
 
-im gonna try and host a repo here
+repo is at thanos.lol/repo. it works on iOS 10-14. support for older eta son
+
+i will probably move my website to my iMac G5 once I fix it.
