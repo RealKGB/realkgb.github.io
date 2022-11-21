@@ -101,6 +101,7 @@ SHA1: e9a5a02a4a152a0ec098048c19c9eb54e0d96e72
 Description: Automates resigning Cydia if switching from h3lix to kok3shiX.
 Name: CydiaFix
 Author: WhitetailAni
+Icon: https://thanos.lol/resources/kok3shiXcydia.png
 
 Package: io.pangu.axe7
 Version: 0.3
