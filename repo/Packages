@@ -6,6 +6,7 @@ Depends: firmware (>= 13.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.bitches.bitches.deb
 Size: 69642
+Installed-Size: 232
 MD5sum: 37f0b9ebedd08a486e6f0c0aec80c953
 SHA1: fc8569093f0f06c77a4a17e9c6edac0798825345
 SHA256: d770e98a1255ea6ef5c746dde3044bbdedd4aca9ba3242a442db818c73b86c35
@@ -24,6 +25,7 @@ Maintainer: WhitetailAni
 Architecture: iphoneos-arm
 Filename: debs/com.captinc.despring_1.0.0_iphoneos-arm.deb
 Size: 6132
+Installed-Size: 332
 MD5sum: b52a930b39b30d166593b243e44c9268
 SHA1: 4438ba3b8be429f4769f67e61c016605d4daabf3
 SHA256: 91a2aeefaaee03a286304abb7ef4f3343867c399671f2a53a259d41cbbc90a8e
@@ -85,6 +87,23 @@ Description: Porn moaning sound when you plug in your device
 Name: MiaKhalifa
 Author: Capt Inc
 
+Package: com.captinc.yesbetapopup
+Version: 1.0.0
+Depends: firmware (>= 13.0), mobilesubstrate
+Priority: optional
+Section: Tweaks
+Maintainer: WhitetailAni
+Architecture: iphoneos-arm
+Filename: debs/com.captinc.yesbetapopup_1.0.0_iphoneos-arm.deb
+Size: 3564
+MD5sum: e069fdf17178fddf87cd0da400dbe8db
+SHA1: 5196dab9f6b66eca58ac7a8d9e7bca545a766593
+SHA256: 9c16de0a7bb2a058514c94b1c71de91a2f11b91bb293e8c6477a01c58e4cb445
+SHA512: 22e73590c31d32a6b0e1ec1418fdc60b09085e6e8154cb01f95319bcc7e44928e468cceae8f25b68c4e26984f6395899ec90cdd55d3ff6118b21dab8302cd2ae
+Description: Enables beta popup on stable iOS
+Name: YesBetaPopup
+Author: Capt Inc
+
 Package: com.fiona.fiona
 Version: 1.0.0
 Depends: firmware (>= 13.0), mobilesubstrate
@@ -116,7 +135,7 @@ MD5sum: 66d24451eca29a2ce4e130088cb6e552
 SHA1: 18dacef51e1edee2c09456812ce8a484e48a9f9a
 SHA256: 108a61c9d096d37d508e97a1701c9594b1b8c58708153511187c3c2b83d799d6
 SHA512: 0bf4008d342ec695ee23b125ff644ac172b85a9201c9c8c1044d056219f6498803bc8fae8f4ac402972259328d97bddae405106873eedab39d43e3bd95a34c26
-Description: Clutch (App decryption tool) for iOS 5
+Description: CHigh-speed iOS app decryption tool (iOS 5)
 Name: Clutch 1.3 (iOS 5)
 Author: Kim Jong Cracks
 Icon: https://thanos.lol/resources/repoicons/clutch.png
@@ -134,12 +153,12 @@ MD5sum: 3d86ef34bda9287e6081dda95b7593dd
 SHA1: 6c4c3a43156e09b79f0b98f220341935096e8c78
 SHA256: 09e923dafaa848e44f73c86bf5d7b96641dc925b8392cd8bbe31e0fde1b85c2c
 SHA512: 79dccb9416f616857136a8819602424e869b128303d1cbc7ad460b1eb000af9eed722360869ce1429e92aece95fa4e139479168cd5d80baa86b968b7c51e11e6
-Description: Clutch (App decryption tool) for iOS 6-10
+Description: High-speed iOS app decryption tool (iOS 6-10)
 Name: Clutch 2.0.4 (iOS 6-10)
 Author: Kim Jong Cracks
 Icon: https://thanos.lol/resources/repoicons/clutch.png
 
-Package: procursus cydia
+Package: cydia
 Version: 1.1.36-3
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz-utils, zstd
