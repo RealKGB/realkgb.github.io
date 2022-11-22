@@ -162,8 +162,8 @@ Package: cydia
 Version: 1.1.36-3
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz-utils, zstd
-Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, firmware (<=11.4.1)
-Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=12.0)
+Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
+Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=12.0), firmware (<=14.8.1)
 Provides: bigbossbetarepo, cydia-sources, cydia-lproj
 Priority: optional
 Section: Modern Tools
@@ -171,17 +171,17 @@ Maintainer: WhitetailAni
 Architecture: iphoneos-arm
 Filename: debs/cydia_1.1.36-3_iphoneos-arm.deb
 Size: 1242528
+Installed-Size: 6496
 MD5sum: f55218a68a1f0ac9966bd40d8cc5ee67
 SHA1: 6f175ddec364c843427ac50372a57bf36d79b353
 SHA256: 340a1b8ee2048f24ef50ba89cd405e205721180ab2f87f45c333640092d3c3ac
 SHA512: 6effca68161fc518ba26d27a42f5cc489b072a0183c080d8545cd99f3cbe0eb6737f0c4ac559406dafb52b92fdf1dcebd652107515454758b5076b20a6e6363d
 Description: outdated graphical iPhone front-end for APT
-Name: Cydia Installer
+Name: Cydia for Procursus
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
 Icon: file:///Applications/Cydia.app/Icon-60.png
 Tag: purpose::uikit, role::enduser
-Installed-Size: 6496
 
 Package: io.pangu.axe7
 Version: 0.3
@@ -210,11 +210,11 @@ Maintainer: WhitetailAni
 Architecture: iphoneos-arm
 Filename: debs/lol.whitetailani.cydiafix_1.0.0_iphoneos-arm.deb
 Size: 1452
-MD5sum: a7381869884fc65fbd0973cc992fd7b7
-SHA1: e9a5a02a4a152a0ec098048c19c9eb54e0d96e72
-SHA256: bcca5bb4c3affee34bdccebeb1a54868d754ea879df47875fe30d1e715d04fdd
-SHA512: 87a2bfadece2baf522b96a3f2b2f2842fb58ec2020ac8cd41c4216684b8420538a748b33fa9bc060d92529a61a89173b02ce43ac76547082cfdacd77bf6b8cee
-Description: Automates resigning Cydia if switching from h3lix to kok3shiX.
+MD5sum: df2c573ee3f288a6b78f6416a97d4287
+SHA1: f7c59937fb462b7825c817e8098684c3fb87c340
+SHA256: 91c22b02f214f4836a15af181db711e3edea5fcc8530f7580b5db26e4f13f0bf
+SHA512: e1cd950641d9577c6dbf33b3333233c49b5e63b3d0ca77a37dc82c7467f75924a6d89acd6574daeeb98eb6b3fd5e5d83047257d2ab9c723b7bc972c9bdcf6247
+Description: Resigns Cydia to work on kok3shiX if switching from h3lix
 Name: CydiaFix
 Author: WhitetailAni
 Icon: https://thanos.lol/resources/repoicons/kok3shiXcydia.png
