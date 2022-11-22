@@ -8,10 +8,12 @@ Filename: debs/com.bitches.bitches.deb
 Size: 69642
 MD5sum: 37f0b9ebedd08a486e6f0c0aec80c953
 SHA1: fc8569093f0f06c77a4a17e9c6edac0798825345
+SHA256: d770e98a1255ea6ef5c746dde3044bbdedd4aca9ba3242a442db818c73b86c35
+SHA512: 8841cb5531417e7a773e238be0840a94a1e126a3bcf2d82d2e5c82a92298a71fd5dd061e4c40c825c53f058dc33692ed42c754053ea9a3be4875c58bb0af373b
 Description: gets you bitches
 Name: bitches
 Author: Capt Inc
-Icon: https://thanos.lol/resources/spunch.png
+Icon: https://thanos.lol/resources/repoicons/spunch.png
 
 Package: com.captinc.despring
 Version: 1.0.0
@@ -24,6 +26,8 @@ Filename: debs/com.captinc.despring_1.0.0_iphoneos-arm.deb
 Size: 6132
 MD5sum: b52a930b39b30d166593b243e44c9268
 SHA1: 4438ba3b8be429f4769f67e61c016605d4daabf3
+SHA256: 91a2aeefaaee03a286304abb7ef4f3343867c399671f2a53a259d41cbbc90a8e
+SHA512: 5ba5c5f77cd08e559077ee970ddc7c32911d33e64db17d212da43ca9a8e6b78b50894cb2bec1b683767f1c09d41348c8f15dbf61f95e631b9bad727cfe5b6e11
 Description: HIGHLY DANGEROUS - DO NOT INSTALL unless you want to restore your device. Prevents SpringBoard crashes by deleting SpringBoard.
 Name: DeSpring
 Author: Capt Inc
@@ -39,10 +43,12 @@ Filename: debs/com.captinc.elevator_1.0.0_iphoneos-arm.deb
 Size: 3072
 MD5sum: 6c2e8cabeba64fae8b22791a50a65f4f
 SHA1: 6591711025cf7300a7647607d24f6280ec30205c
+SHA256: 417b9c4feec939120eded8a70c08b9ba6a63267db1699095bf4c636406ca3f74
+SHA512: a84251f79e87a697ff6031d1bd7927a9dfa951025984726960d200656f16cf5b6f0edfe9909f2e6a88266815515ebce015fb8361994487c84860df8be17668c0
 Description: Shifts UIKit elements upwards
 Name: Elevator
 Author: Capt Inc
-Icon: https://thanos.lol/resources/elevator.png
+Icon: https://thanos.lol/resources/repoicons/elevator.png
 
 Package: com.captinc.magician
 Version: 1.0.0
@@ -55,10 +61,12 @@ Filename: debs/com.captinc.magician_1.0.0_iphoneos-arm.deb
 Size: 3108
 MD5sum: 39cdd34714d5ec0214b05950e945d014
 SHA1: d8dce7c93b331054a7a400783581f22eeece9a27
+SHA256: 3e0881e744b45143abde32ab16a52bb2826731f0a433e07cc1788e0f066cfcae
+SHA512: 549de0058e34962e55cfd3b4214ab295cf9686865647cdb89bd0786d3ff0bd75d97719ba83871ac760cc484e40c3feb872acdd123a0dbafccadb408e0ba18f3f
 Description: 30% chance to not render a UIKit element
 Name: Magician
 Author: Capt Inc
-Icon: https://thanos.lol/resources/magician.png
+Icon: https://thanos.lol/resources/repoicons/magician.png
 
 Package: com.captinc.miakhalifa
 Version: 1.0.0
@@ -71,6 +79,8 @@ Filename: debs/com.captinc.miakhalifa_1.0.0_iphoneos-arm.deb
 Size: 69642
 MD5sum: 37f0b9ebedd08a486e6f0c0aec80c953
 SHA1: fc8569093f0f06c77a4a17e9c6edac0798825345
+SHA256: d770e98a1255ea6ef5c746dde3044bbdedd4aca9ba3242a442db818c73b86c35
+SHA512: 8841cb5531417e7a773e238be0840a94a1e126a3bcf2d82d2e5c82a92298a71fd5dd061e4c40c825c53f058dc33692ed42c754053ea9a3be4875c58bb0af373b
 Description: Porn moaning sound when you plug in your device
 Name: MiaKhalifa
 Author: Capt Inc
@@ -86,41 +96,12 @@ Filename: debs/com.fiona.fiona_1.0.0_iphoneos-arm.deb
 Size: 2202
 MD5sum: 2e18c4eb885a06c5aed6544dd0179fd1
 SHA1: 124efea0a378e3af89f65fc7f74f2acd987cbdec
+SHA256: 5a231211b70367fa853e8bbcb51bf6335c2cdbf6c02bcd435ca4e7434b93199d
+SHA512: 390ae718bc6027c8f449c5d7d1713f22147a6b36ab7eb2b6d6d1e8d11e69bc0adf211841b25028187340c48ed9a94c723089ff953ebde5c74e74253eea14f031
 Description: HIGHLY DANGEROUS - DO NOT INSTALL. You'll get blown up if you install this apparently.
 Name: Fiona
 Author: Capt Inc
-
-Package: lol.whitetailani.cydiafix
-Version: 1.0.0
-Depends: firmware (>= 10.3), firmware (<= 11.0), mobilesubstrate
-Priority: optional
-Section: Legacy Tools
-Maintainer: WhitetailAni
-Architecture: iphoneos-arm
-Filename: debs/lol.whitetailani.cydiafix_1.0.0_iphoneos-arm.deb
-Size: 1452
-MD5sum: a7381869884fc65fbd0973cc992fd7b7
-SHA1: e9a5a02a4a152a0ec098048c19c9eb54e0d96e72
-Description: Automates resigning Cydia if switching from h3lix to kok3shiX.
-Name: CydiaFix
-Author: WhitetailAni
-Icon: https://thanos.lol/resources/kok3shiXcydia.png
-
-Package: io.pangu.axe7
-Version: 0.3
-Depends: firmware (>= 7.1), firmware (<= 7.1.2), mobilesubstrate
-Priority: optional
-Section: Legacy Tools
-Maintainer: WhitetailAni
-Architecture: iphoneos-arm
-Filename: debs/io.pangu.axe7_0.3_iphoneos-arm.deb
-Size: 107276
-MD5sum: 3d86ef34bda9287e6081dda95b7593dd
-SHA1: 4267988b1bfdc4578dced131667ccca8eb6eb986
-Description: Fixes the light sensor panic bug for Pangu7 devices.
-Name: Pangu 7.1-7.1.2 Untether Fix
-Author: Pangu
-Icon: https://thanos.lol/resources/pangu7.png
+Icon: https://thanos.lol/resources/repoicons/fiona.jpeg
 
 Package: com.kjcracks.clutch13
 Version: 1.3
@@ -133,10 +114,12 @@ Filename: debs/com.kjcracks.clutch_1.3.0_iphoneos-arm.deb
 Size: 44530
 MD5sum: 66d24451eca29a2ce4e130088cb6e552
 SHA1: 18dacef51e1edee2c09456812ce8a484e48a9f9a
+SHA256: 108a61c9d096d37d508e97a1701c9594b1b8c58708153511187c3c2b83d799d6
+SHA512: 0bf4008d342ec695ee23b125ff644ac172b85a9201c9c8c1044d056219f6498803bc8fae8f4ac402972259328d97bddae405106873eedab39d43e3bd95a34c26
 Description: Clutch (App decryption tool) for iOS 5
 Name: Clutch 1.3 (iOS 5)
 Author: Kim Jong Cracks
-Icon: https://thanos.lol/resources/clutch.png
+Icon: https://thanos.lol/resources/repoicons/clutch.png
 
 Package: com.kjcracks.clutch204
 Version: 2.0.4
@@ -146,13 +129,15 @@ Section: Legacy Tools
 Maintainer: WhitetailAni
 Architecture: iphoneos-arm
 Filename: debs/com.kjcracks.clutch_2.0.4_iphoneos-arm.deb
-Size: 107276
+Size: 457524
 MD5sum: 3d86ef34bda9287e6081dda95b7593dd
 SHA1: 6c4c3a43156e09b79f0b98f220341935096e8c78
+SHA256: 09e923dafaa848e44f73c86bf5d7b96641dc925b8392cd8bbe31e0fde1b85c2c
+SHA512: 79dccb9416f616857136a8819602424e869b128303d1cbc7ad460b1eb000af9eed722360869ce1429e92aece95fa4e139479168cd5d80baa86b968b7c51e11e6
 Description: Clutch (App decryption tool) for iOS 6-10
 Name: Clutch 2.0.4 (iOS 6-10)
 Author: Kim Jong Cracks
-Icon: https://thanos.lol/resources/clutch.png
+Icon: https://thanos.lol/resources/repoicons/clutch.png
 
 Package: procursus cydia
 Version: 1.1.36-3
@@ -169,10 +154,48 @@ Filename: debs/cydia_1.1.36-3_iphoneos-arm.deb
 Size: 1242528
 MD5sum: f55218a68a1f0ac9966bd40d8cc5ee67
 SHA1: 6f175ddec364c843427ac50372a57bf36d79b353
-Description: graphical iPhone front-end for APT
+SHA256: 340a1b8ee2048f24ef50ba89cd405e205721180ab2f87f45c333640092d3c3ac
+SHA512: 6effca68161fc518ba26d27a42f5cc489b072a0183c080d8545cd99f3cbe0eb6737f0c4ac559406dafb52b92fdf1dcebd652107515454758b5076b20a6e6363d
+Description: outdated graphical iPhone front-end for APT
 Name: Cydia Installer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
 Icon: file:///Applications/Cydia.app/Icon-60.png
 Tag: purpose::uikit, role::enduser
 Installed-Size: 6496
+
+Package: io.pangu.axe7
+Version: 0.3
+Depends: firmware (>= 7.1), firmware (<= 7.1.2), mobilesubstrate
+Priority: optional
+Section: Legacy Tools
+Maintainer: WhitetailAni
+Architecture: iphoneos-arm
+Filename: debs/io.pangu.axe7_0.3_iphoneos-arm.deb
+Size: 107276
+MD5sum: 3d86ef34bda9287e6081dda95b7593dd
+SHA1: 4267988b1bfdc4578dced131667ccca8eb6eb986
+SHA256: db7e412fd629802e26c8aec481cdca9cfe0a3bc33c7a4cc243351245da5cb172
+SHA512: 74a2503e10172785b642b21801debd93c3862c81523b7ae53cd23c4b17aaef736df0a466c47caa03fc10fe75a5e7888fcc8f5b70adfad2fb5ddbba0a6b4a8e22
+Description: Fixes the light sensor panic bug for Pangu7 devices.
+Name: Pangu 7.1-7.1.2 Untether Fix
+Author: Pangu
+Icon: https://thanos.lol/resources/repoicons/pangu7.png
+
+Package: lol.whitetailani.cydiafix
+Version: 1.0.0
+Depends: firmware (>= 10.3), firmware (<= 11.0), mobilesubstrate
+Priority: optional
+Section: Legacy Tools
+Maintainer: WhitetailAni
+Architecture: iphoneos-arm
+Filename: debs/lol.whitetailani.cydiafix_1.0.0_iphoneos-arm.deb
+Size: 1452
+MD5sum: a7381869884fc65fbd0973cc992fd7b7
+SHA1: e9a5a02a4a152a0ec098048c19c9eb54e0d96e72
+SHA256: bcca5bb4c3affee34bdccebeb1a54868d754ea879df47875fe30d1e715d04fdd
+SHA512: 87a2bfadece2baf522b96a3f2b2f2842fb58ec2020ac8cd41c4216684b8420538a748b33fa9bc060d92529a61a89173b02ce43ac76547082cfdacd77bf6b8cee
+Description: Automates resigning Cydia if switching from h3lix to kok3shiX.
+Name: CydiaFix
+Author: WhitetailAni
+Icon: https://thanos.lol/resources/repoicons/kok3shiXcydia.png
