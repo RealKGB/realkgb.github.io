@@ -5,7 +5,7 @@ Maintainer: bitches
 Depends: firmware (>= 13.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.bitches.bitches.deb
-Size: 69642
+Size: 72774
 Installed-Size: 232
 MD5sum: 37f0b9ebedd08a486e6f0c0aec80c953
 SHA1: fc8569093f0f06c77a4a17e9c6edac0798825345
@@ -130,7 +130,7 @@ Section: Legacy Tools
 Maintainer: WhitetailAni
 Architecture: iphoneos-arm
 Filename: debs/com.kjcracks.clutch_1.3.0_iphoneos-arm.deb
-Size: 44530
+Size: 44602
 MD5sum: 66d24451eca29a2ce4e130088cb6e552
 SHA1: 18dacef51e1edee2c09456812ce8a484e48a9f9a
 SHA256: 108a61c9d096d37d508e97a1701c9594b1b8c58708153511187c3c2b83d799d6
@@ -148,7 +148,7 @@ Section: Legacy Tools
 Maintainer: WhitetailAni
 Architecture: iphoneos-arm
 Filename: debs/com.kjcracks.clutch_2.0.4_iphoneos-arm.deb
-Size: 457524
+Size: 457612
 MD5sum: 3d86ef34bda9287e6081dda95b7593dd
 SHA1: 6c4c3a43156e09b79f0b98f220341935096e8c78
 SHA256: 09e923dafaa848e44f73c86bf5d7b96641dc925b8392cd8bbe31e0fde1b85c2c
@@ -162,7 +162,7 @@ Package: cydia
 Version: 1.1.36-3
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz-utils, zstd
-Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
+Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, firmware (<=11.4.1)
 Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=12.0)
 Provides: bigbossbetarepo, cydia-sources, cydia-lproj
 Priority: optional
