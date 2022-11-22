@@ -7,10 +7,10 @@ Architecture: iphoneos-arm
 Filename: debs/com.bitches.bitches.deb
 Size: 72774
 Installed-Size: 232
-MD5sum: 37f0b9ebedd08a486e6f0c0aec80c953
-SHA1: fc8569093f0f06c77a4a17e9c6edac0798825345
-SHA256: d770e98a1255ea6ef5c746dde3044bbdedd4aca9ba3242a442db818c73b86c35
-SHA512: 8841cb5531417e7a773e238be0840a94a1e126a3bcf2d82d2e5c82a92298a71fd5dd061e4c40c825c53f058dc33692ed42c754053ea9a3be4875c58bb0af373b
+MD5sum: 5ac0c421861aa9d8208d5cea88d5ed9a
+SHA1: 1261802be99a22a58d320eca69ad182811813c23
+SHA256: a560c968ee1cded4dee7ab0afd4e4817a8200d6259f27b908d8ea8b88112f235
+SHA512: 3e571f4d7207810ab34c9f7f8edaf16f16b82e4b1921e667460c7aee65ff29bae39c8092c7add71c5c10a85384fc7923f63dafb1d8314ea2c4c993e5fdabea2b
 Description: gets you bitches
 Name: bitches
 Author: Capt Inc
@@ -131,10 +131,10 @@ Maintainer: WhitetailAni
 Architecture: iphoneos-arm
 Filename: debs/com.kjcracks.clutch_1.3.0_iphoneos-arm.deb
 Size: 44602
-MD5sum: 66d24451eca29a2ce4e130088cb6e552
-SHA1: 18dacef51e1edee2c09456812ce8a484e48a9f9a
-SHA256: 108a61c9d096d37d508e97a1701c9594b1b8c58708153511187c3c2b83d799d6
-SHA512: 0bf4008d342ec695ee23b125ff644ac172b85a9201c9c8c1044d056219f6498803bc8fae8f4ac402972259328d97bddae405106873eedab39d43e3bd95a34c26
+MD5sum: 0021fb6d1034d043d0b6a378026cf1ad
+SHA1: c2ea32b242f3c65484ab7b1cb41fb70abc8a1e63
+SHA256: 4a19efbf9e9cd86cf81da47a6c3cc87cc34058679eed1ef3a6f704f435951cef
+SHA512: 13fc97e7e111b5910a32eb23046ddac998ca7232bab32b965ab74161b97467b705c4ef3554e7ead1728dbc4213e9555a593685a2e738611398ba273e64ec47fe
 Description: CHigh-speed iOS app decryption tool (iOS 5)
 Name: Clutch 1.3 (iOS 5)
 Author: Kim Jong Cracks
@@ -149,10 +149,10 @@ Maintainer: WhitetailAni
 Architecture: iphoneos-arm
 Filename: debs/com.kjcracks.clutch_2.0.4_iphoneos-arm.deb
 Size: 457612
-MD5sum: 3d86ef34bda9287e6081dda95b7593dd
-SHA1: 6c4c3a43156e09b79f0b98f220341935096e8c78
-SHA256: 09e923dafaa848e44f73c86bf5d7b96641dc925b8392cd8bbe31e0fde1b85c2c
-SHA512: 79dccb9416f616857136a8819602424e869b128303d1cbc7ad460b1eb000af9eed722360869ce1429e92aece95fa4e139479168cd5d80baa86b968b7c51e11e6
+MD5sum: 8d34002a2b419692a6876fa403a052f2
+SHA1: 1ba4de90f8aa038ce34094a6897df12a12473e4e
+SHA256: d54733b732f45a1d38dabf2333f3afc38823463a04f72085c8d8776cebb34b7a
+SHA512: c227fbb85efdd4725657faae984b6840bc59b0d8d76b3acf72453050c90ea04e6f786b803ee78e8c2c0db840151b3f878e0fabc16031b417ce46218c597b25bc
 Description: High-speed iOS app decryption tool (iOS 6-10)
 Name: Clutch 2.0.4 (iOS 6-10)
 Author: Kim Jong Cracks
