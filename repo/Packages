@@ -158,6 +158,24 @@ Name: Clutch 2.0.4 (iOS 6-10)
 Author: Kim Jong Cracks
 Icon: https://thanos.lol/resources/repoicons/clutch.png
 
+Package: com.lcampbell0x.dropbear
+Version: 1.0.0
+Depends: firmware (>= 1.0)
+Priority: optional
+Section: Legacy Tools
+Maintainer: WhitetailAni
+Architecture: iphoneos-arm
+Filename: debs/com.lcampbell0x.dropbear_1.0.0_iphoneos-arm.deb
+Size: 1832962
+MD5sum: c8f4767f3ae14767eed689fdd5591995
+SHA1: 9fedce104ac61032ecd85f4a9cb9baa60c2b35f4
+SHA256: 5b1058f0b7c6a8cf3fd1aedf0b7a8dbf08266f9e6384a89c5581dd5b60b12549
+SHA512: acea09c0dad6605ca49bbb6eb427a4b5207e05e961b400f323a3cd21aac330b2943c9e6138070efc7a84cadc3537301c5baacec36ae4b02ff728d53db9a3e18d
+Description: SSH over USB for iOS 10. SSH over WiFi can be enabled, but is not enabled by default.
+Name: dropbear
+Author: LCampbell0x
+Icon: https://thanos.lol/resources/repoicons/dropbear.png
+
 Package: cydia
 Version: 1.1.36-3
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
@@ -203,17 +221,17 @@ Icon: https://thanos.lol/resources/repoicons/pangu7.png
 
 Package: lol.whitetailani.cydiafix
 Version: 1.0.0
-Depends: firmware (>= 10.3), firmware (<= 11.0), mobilesubstrate
+Depends: curl
 Priority: optional
 Section: Legacy Tools
 Maintainer: WhitetailAni
 Architecture: iphoneos-arm
 Filename: debs/lol.whitetailani.cydiafix_1.0.0_iphoneos-arm.deb
-Size: 1452
-MD5sum: df2c573ee3f288a6b78f6416a97d4287
-SHA1: f7c59937fb462b7825c817e8098684c3fb87c340
-SHA256: 91c22b02f214f4836a15af181db711e3edea5fcc8530f7580b5db26e4f13f0bf
-SHA512: e1cd950641d9577c6dbf33b3333233c49b5e63b3d0ca77a37dc82c7467f75924a6d89acd6574daeeb98eb6b3fd5e5d83047257d2ab9c723b7bc972c9bdcf6247
+Size: 1070
+MD5sum: 62e2af2e80293d6c6aab86419e32fa8c
+SHA1: 72cdfc0ea88b5d499e8d0f658cb3c001f326e115
+SHA256: 5cf15afdedc481fff861edfb745f1337d689d85c88e98518321b038afa3aab09
+SHA512: 9921881a6ab6afd0be3806671d1f4871d3d4acdc048eb4e53acba275b4d66a7293474c7ee429b26e95798c54e76c34aa488709b5672a6ebd73586c0ead82623c
 Description: Resigns Cydia to work on kok3shiX if switching from h3lix
 Name: CydiaFix
 Author: WhitetailAni
