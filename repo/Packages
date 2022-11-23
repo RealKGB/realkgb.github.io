@@ -159,7 +159,7 @@ Author: Kim Jong Cracks
 Icon: https://thanos.lol/resources/repoicons/clutch.png
 
 Package: com.lcampbell0x.dropbear
-Version: 1.0.0
+Version: 1.0
 Depends: firmware (>= 1.0)
 Priority: optional
 Section: Legacy Tools
