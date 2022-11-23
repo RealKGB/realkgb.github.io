@@ -21,7 +21,7 @@ Version: 1.0.0
 Depends: firmware (>= 13.0), mobilesubstrate
 Priority: optional
 Section: Tweaks
-Maintainer: WhitetailAni
+Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/com.captinc.despring_1.0.0_iphoneos-arm.deb
 Size: 6132
@@ -39,7 +39,7 @@ Version: 1.0.0
 Depends: firmware (>= 13.0), mobilesubstrate
 Priority: optional
 Section: Tweaks
-Maintainer: WhitetailAni
+Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/com.captinc.elevator_1.0.0_iphoneos-arm.deb
 Size: 3072
@@ -57,7 +57,7 @@ Version: 1.0.0
 Depends: firmware (>= 13.0), mobilesubstrate
 Priority: optional
 Section: Dangerous Tweaks
-Maintainer: WhitetailAni
+Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/com.captinc.magician_1.0.0_iphoneos-arm.deb
 Size: 3108
@@ -75,7 +75,7 @@ Version: 1.0.0
 Depends: firmware (>= 13.0), mobilesubstrate
 Priority: optional
 Section: Tweaks
-Maintainer: WhitetailAni
+Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/com.captinc.miakhalifa_1.0.0_iphoneos-arm.deb
 Size: 69642
@@ -92,7 +92,7 @@ Version: 1.0.0
 Depends: firmware (>= 13.0), mobilesubstrate
 Priority: optional
 Section: Tweaks
-Maintainer: WhitetailAni
+Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/com.captinc.yesbetapopup_1.0.0_iphoneos-arm.deb
 Size: 3564
@@ -109,7 +109,7 @@ Version: 1.0.0
 Depends: firmware (>= 13.0), mobilesubstrate
 Priority: optional
 Section: Dangerous Tweaks
-Maintainer: WhitetailAni
+Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/com.fiona.fiona_1.0.0_iphoneos-arm.deb
 Size: 2202
@@ -127,7 +127,7 @@ Version: 1.3
 Depends: firmware (>= 5.0), firmware (<= 5.1.1), mobilesubstrate
 Priority: optional
 Section: Legacy Tools
-Maintainer: WhitetailAni
+Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/com.kjcracks.clutch_1.3.0_iphoneos-arm.deb
 Size: 44602
@@ -145,7 +145,7 @@ Version: 2.0.4
 Depends: firmware (>= 6.0), firmware (<= 10.3.4), mobilesubstrate
 Priority: optional
 Section: Legacy Tools
-Maintainer: WhitetailAni
+Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/com.kjcracks.clutch_2.0.4_iphoneos-arm.deb
 Size: 457612
@@ -163,7 +163,7 @@ Version: 1.0
 Depends: firmware (>= 1.0)
 Priority: optional
 Section: Legacy Tools
-Maintainer: WhitetailAni
+Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/com.lcampbell0x.dropbear_1.0.0_iphoneos-arm.deb
 Size: 1832962
@@ -177,7 +177,7 @@ Author: LCampbell0x
 Icon: https://thanos.lol/resources/repoicons/dropbear.png
 
 Package: cydia
-Version: 1.1.36-3
+Version: 1.1.30
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz-utils, zstd
 Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
@@ -185,7 +185,7 @@ Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=12.0), firmware (<=14.8.
 Provides: bigbossbetarepo, cydia-sources, cydia-lproj
 Priority: optional
 Section: Modern Tools
-Maintainer: WhitetailAni
+Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/cydia_1.1.36-3_iphoneos-arm.deb
 Size: 1242528
@@ -206,7 +206,7 @@ Version: 0.3
 Depends: firmware (>= 7.1), firmware (<= 7.1.2), mobilesubstrate
 Priority: optional
 Section: Legacy Tools
-Maintainer: WhitetailAni
+Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/io.pangu.axe7_0.3_iphoneos-arm.deb
 Size: 107276
@@ -224,7 +224,7 @@ Version: 1.0.0
 Depends: curl
 Priority: optional
 Section: Legacy Tools
-Maintainer: WhitetailAni
+Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/lol.whitetailani.cydiafix_1.0.0_iphoneos-arm.deb
 Size: 1070
