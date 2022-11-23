@@ -1,7 +1,7 @@
 Package: com.bitches.bitches
 Version: 69.42.0
 Section: Tweaks
-Maintainer: bitches
+Maintainer: bitches <bitches@bitches.com>
 Depends: firmware (>= 13.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.bitches.bitches.deb
@@ -13,8 +13,8 @@ SHA256: a560c968ee1cded4dee7ab0afd4e4817a8200d6259f27b908d8ea8b88112f235
 SHA512: 3e571f4d7207810ab34c9f7f8edaf16f16b82e4b1921e667460c7aee65ff29bae39c8092c7add71c5c10a85384fc7923f63dafb1d8314ea2c4c993e5fdabea2b
 Description: gets you bitches
 Name: bitches
-Author: Capt Inc
-Icon: https://thanos.lol/resources/repoicons/spunch.png
+Author: bitches <bitches@bitches.com>
+Icon: http://thanos.lol/resources/repoicons/spunch.png
 
 Package: com.captinc.despring
 Version: 1.0.0
@@ -32,7 +32,8 @@ SHA256: 91a2aeefaaee03a286304abb7ef4f3343867c399671f2a53a259d41cbbc90a8e
 SHA512: 5ba5c5f77cd08e559077ee970ddc7c32911d33e64db17d212da43ca9a8e6b78b50894cb2bec1b683767f1c09d41348c8f15dbf61f95e631b9bad727cfe5b6e11
 Description: HIGHLY DANGEROUS - DO NOT INSTALL unless you want to restore your device. Prevents SpringBoard crashes by deleting SpringBoard.
 Name: DeSpring
-Author: Capt Inc
+Author: Capt Inc <mail@captinc.me>
+Icon: http://thanos.lol/resources/repoicons/respring.png
 
 Package: com.captinc.elevator
 Version: 1.0.0
@@ -49,8 +50,8 @@ SHA256: 417b9c4feec939120eded8a70c08b9ba6a63267db1699095bf4c636406ca3f74
 SHA512: a84251f79e87a697ff6031d1bd7927a9dfa951025984726960d200656f16cf5b6f0edfe9909f2e6a88266815515ebce015fb8361994487c84860df8be17668c0
 Description: Shifts UIKit elements upwards
 Name: Elevator
-Author: Capt Inc
-Icon: https://thanos.lol/resources/repoicons/elevator.png
+Author: Capt Inc <mail@captinc.me>
+Icon: http://thanos.lol/resources/repoicons/elevator.png
 
 Package: com.captinc.magician
 Version: 1.0.0
@@ -67,8 +68,8 @@ SHA256: 3e0881e744b45143abde32ab16a52bb2826731f0a433e07cc1788e0f066cfcae
 SHA512: 549de0058e34962e55cfd3b4214ab295cf9686865647cdb89bd0786d3ff0bd75d97719ba83871ac760cc484e40c3feb872acdd123a0dbafccadb408e0ba18f3f
 Description: 30% chance to not render a UIKit element
 Name: Magician
-Author: Capt Inc
-Icon: https://thanos.lol/resources/repoicons/magician.png
+Author: Capt Inc <mail@captinc.me>
+Icon: http://thanos.lol/resources/repoicons/magician.png
 
 Package: com.captinc.miakhalifa
 Version: 1.0.0
@@ -85,7 +86,7 @@ SHA256: d770e98a1255ea6ef5c746dde3044bbdedd4aca9ba3242a442db818c73b86c35
 SHA512: 8841cb5531417e7a773e238be0840a94a1e126a3bcf2d82d2e5c82a92298a71fd5dd061e4c40c825c53f058dc33692ed42c754053ea9a3be4875c58bb0af373b
 Description: Porn moaning sound when you plug in your device
 Name: MiaKhalifa
-Author: Capt Inc
+Author: Capt Inc <mail@captinc.me>
 
 Package: com.captinc.yesbetapopup
 Version: 1.0.0
@@ -102,7 +103,8 @@ SHA256: 9c16de0a7bb2a058514c94b1c71de91a2f11b91bb293e8c6477a01c58e4cb445
 SHA512: 22e73590c31d32a6b0e1ec1418fdc60b09085e6e8154cb01f95319bcc7e44928e468cceae8f25b68c4e26984f6395899ec90cdd55d3ff6118b21dab8302cd2ae
 Description: Enables beta popup on stable iOS
 Name: YesBetaPopup
-Author: Capt Inc
+Author: Capt Inc <mail@captinc.me>
+Icon: http://thanos.lol/resources/repoicons/beta.png
 
 Package: com.fiona.fiona
 Version: 1.0.0
@@ -119,8 +121,8 @@ SHA256: 5a231211b70367fa853e8bbcb51bf6335c2cdbf6c02bcd435ca4e7434b93199d
 SHA512: 390ae718bc6027c8f449c5d7d1713f22147a6b36ab7eb2b6d6d1e8d11e69bc0adf211841b25028187340c48ed9a94c723089ff953ebde5c74e74253eea14f031
 Description: HIGHLY DANGEROUS - DO NOT INSTALL. You'll get blown up if you install this apparently.
 Name: Fiona
-Author: Capt Inc
-Icon: https://thanos.lol/resources/repoicons/fiona.jpeg
+Author: Capt Inc <mail@captinc.me>
+Icon: http://thanos.lol/resources/repoicons/fiona.jpeg
 
 Package: com.kjcracks.clutch13
 Version: 1.3
@@ -138,7 +140,7 @@ SHA512: 13fc97e7e111b5910a32eb23046ddac998ca7232bab32b965ab74161b97467b705c4ef35
 Description: CHigh-speed iOS app decryption tool (iOS 5)
 Name: Clutch 1.3 (iOS 5)
 Author: Kim Jong Cracks
-Icon: https://thanos.lol/resources/repoicons/clutch.png
+Icon: http://thanos.lol/resources/repoicons/clutch.png
 
 Package: com.kjcracks.clutch204
 Version: 2.0.4
@@ -156,7 +158,7 @@ SHA512: c227fbb85efdd4725657faae984b6840bc59b0d8d76b3acf72453050c90ea04e6f786b80
 Description: High-speed iOS app decryption tool (iOS 6-10)
 Name: Clutch 2.0.4 (iOS 6-10)
 Author: Kim Jong Cracks
-Icon: https://thanos.lol/resources/repoicons/clutch.png
+Icon: http://thanos.lol/resources/repoicons/clutch.png
 
 Package: com.lcampbell0x.dropbear
 Version: 1.0
@@ -174,7 +176,7 @@ SHA512: acea09c0dad6605ca49bbb6eb427a4b5207e05e961b400f323a3cd21aac330b2943c9e61
 Description: SSH over USB for iOS 10. SSH over WiFi can be enabled, but is not enabled by default.
 Name: dropbear
 Author: LCampbell0x
-Icon: https://thanos.lol/resources/repoicons/dropbear.png
+Icon: http://thanos.lol/resources/repoicons/dropbear.png
 
 Package: cydia
 Version: 1.1.30
@@ -198,7 +200,7 @@ Description: outdated graphical iPhone front-end for APT
 Name: Cydia for Procursus
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
-Icon: file:///Applications/Cydia.app/Icon-60.png
+Icon: http://thanos.lol/resources/repoicons/cydia.png
 Tag: purpose::uikit, role::enduser
 
 Package: io.pangu.axe7
@@ -217,7 +219,7 @@ SHA512: 74a2503e10172785b642b21801debd93c3862c81523b7ae53cd23c4b17aaef736df0a466
 Description: Fixes the light sensor panic bug for Pangu7 devices.
 Name: Pangu 7.1-7.1.2 Untether Fix
 Author: Pangu
-Icon: https://thanos.lol/resources/repoicons/pangu7.png
+Icon: http://thanos.lol/resources/repoicons/pangu7.png
 
 Package: lol.whitetailani.cydiafix
 Version: 1.0.0
@@ -234,5 +236,5 @@ SHA256: 5cf15afdedc481fff861edfb745f1337d689d85c88e98518321b038afa3aab09
 SHA512: 9921881a6ab6afd0be3806671d1f4871d3d4acdc048eb4e53acba275b4d66a7293474c7ee429b26e95798c54e76c34aa488709b5672a6ebd73586c0ead82623c
 Description: Resigns Cydia to work on kok3shiX if switching from h3lix
 Name: CydiaFix
-Author: WhitetailAni
-Icon: https://thanos.lol/resources/repoicons/kok3shiXcydia.png
+Author: WhitetailAni <joemama@thanos.lol>
+Icon: http://thanos.lol/resources/repoicons/kok3shiXcydia.png
