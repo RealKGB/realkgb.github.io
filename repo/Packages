@@ -110,7 +110,7 @@ Package: com.fiona.fiona
 Version: 1.0.0
 Depends: firmware (>= 13.0), mobilesubstrate
 Priority: optional
-Section: Dangerous Tweaks
+Section: Tweaks
 Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/com.fiona.fiona_1.0.0_iphoneos-arm.deb
@@ -119,7 +119,7 @@ MD5sum: 2e18c4eb885a06c5aed6544dd0179fd1
 SHA1: 124efea0a378e3af89f65fc7f74f2acd987cbdec
 SHA256: 5a231211b70367fa853e8bbcb51bf6335c2cdbf6c02bcd435ca4e7434b93199d
 SHA512: 390ae718bc6027c8f449c5d7d1713f22147a6b36ab7eb2b6d6d1e8d11e69bc0adf211841b25028187340c48ed9a94c723089ff953ebde5c74e74253eea14f031
-Description: HIGHLY DANGEROUS - DO NOT INSTALL. You'll get blown up if you install this apparently.
+Description: Crashes SpringBoard repeatedly (can be removed in Safe Mode)
 Name: Fiona
 Author: Capt Inc <mail@captinc.me>
 Icon: http://thanos.lol/resources/repoicons/fiona.jpeg
