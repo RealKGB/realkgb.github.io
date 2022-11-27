@@ -178,30 +178,30 @@ Name: dropbear
 Author: LCampbell0x
 Icon: http://thanos.lol/resources/repoicons/dropbear.png
 
-Package: cydia
-Version: 1.1.30
-Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
-Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz-utils, zstd
-Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
-Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=12.0), firmware (<=14.8.1)
-Provides: bigbossbetarepo, cydia-sources, cydia-lproj
-Priority: optional
-Section: Modern Tools
-Maintainer: WhitetailAni <joemama@thanos.lol>
-Architecture: iphoneos-arm
-Filename: debs/cydia_1.1.36-3_iphoneos-arm.deb
-Size: 1242528
-Installed-Size: 6496
-MD5sum: f55218a68a1f0ac9966bd40d8cc5ee67
-SHA1: 6f175ddec364c843427ac50372a57bf36d79b353
-SHA256: 340a1b8ee2048f24ef50ba89cd405e205721180ab2f87f45c333640092d3c3ac
-SHA512: 6effca68161fc518ba26d27a42f5cc489b072a0183c080d8545cd99f3cbe0eb6737f0c4ac559406dafb52b92fdf1dcebd652107515454758b5076b20a6e6363d
-Description: outdated graphical iPhone front-end for APT
-Name: Cydia for Procursus
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Depiction: http://cydia.saurik.com/info/cydia/
-Icon: http://thanos.lol/resources/repoicons/cydia.png
-Tag: purpose::uikit, role::enduser
+//Package: cydia
+//Version: 1.1.30
+//Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
+//Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz-utils, zstd
+//Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, cy+cpu.armv7
+//Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=12.0), firmware (<=14.8.1)
+//Provides: bigbossbetarepo, cydia-sources, cydia-lproj
+//Priority: optional
+//Section: Modern Tools
+//Maintainer: WhitetailAni <joemama@thanos.lol>
+//Architecture: iphoneos-arm
+//Filename: debs/cydia_1.1.36-3_iphoneos-arm.deb
+//Size: 1242528
+//Installed-Size: 6496
+//MD5sum: f55218a68a1f0ac9966bd40d8cc5ee67
+//SHA1: 6f175ddec364c843427ac50372a57bf36d79b353
+//SHA256: 340a1b8ee2048f24ef50ba89cd405e205721180ab2f87f45c333640092d3c3ac
+//SHA512: 6effca68161fc518ba26d27a42f5cc489b072a0183c080d8545cd99f3cbe0eb6737f0c4ac559406dafb52b92fdf1dcebd652107515454758b5076b20a6e6363d
+//Description: outdated graphical iPhone front-end for APT
+//Name: Cydia for Procursus
+//Author: Jay Freeman (saurik) <saurik@saurik.com>
+//Depiction: http://cydia.saurik.com/info/cydia/
+//Icon: http://thanos.lol/resources/repoicons/cydia.png
+//Tag: purpose::uikit, role::enduser
 
 Package: io.pangu.axe7
 Version: 0.3
@@ -282,3 +282,23 @@ Description: Resigns Cydia to work on kok3shiX if switching from h3lix
 Name: CydiaFix
 Author: WhitetailAni <joemama@thanos.lol>
 Icon: http://thanos.lol/resources/repoicons/kok3shiXcydia.png
+
+Package: net.tihmstar.untetherhomedepot
+Version: 1.5
+Depends: firmware (>= 9.1), firmware (<= 9.3.4)
+Conflicts: cy+cpu.arm64
+Replaces: net.tihmstar.betterhomedepot
+Priority: optional
+Section: Legacy Tools
+Maintainer: WhitetailAni <joemama@thanos.lol>
+Architecture: iphoneos-arm
+Filename: debs/net.tihmstar.untetherhomedepot_1.5_iphoneos-arm.deb
+Size: 23316
+MD5sum: cbc91037b755cad872abfea4d7c15f4e
+SHA1: cc72e0ca2d445c059a272fc18f524348093b2549
+SHA256: 5746573359fe7e245158d8c5c8fbf0faa353dead820452378548094bcffc4556
+SHA512: 415a50642225d6e358b8457f5eac0cad1f3a83d41a716cecc179e8cb9e37599b587621a0f92bb989c1a56709f79fa71ee4c0e91e159644c4e2a0cda0760be986
+Description: Untether package for 32-bit devices on 9.1-9.3.4
+Name: UntetherHomeDepot
+Author: tihmstar
+Icon: http://thanos.lol/resources/repoicons/homedepot.png
