@@ -106,23 +106,41 @@ Name: YesBetaPopup
 Author: Capt Inc <mail@captinc.me>
 Icon: http://thanos.lol/resources/repoicons/beta.png
 
-Package: com.fiona.fiona
+Package: com.captinc.yesbetapopup
 Version: 1.0.0
 Depends: firmware (>= 13.0), mobilesubstrate
 Priority: optional
 Section: Tweaks
 Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
-Filename: debs/com.fiona.fiona_1.0.0_iphoneos-arm.deb
-Size: 2202
-MD5sum: 2e18c4eb885a06c5aed6544dd0179fd1
-SHA1: 124efea0a378e3af89f65fc7f74f2acd987cbdec
-SHA256: 5a231211b70367fa853e8bbcb51bf6335c2cdbf6c02bcd435ca4e7434b93199d
-SHA512: 390ae718bc6027c8f449c5d7d1713f22147a6b36ab7eb2b6d6d1e8d11e69bc0adf211841b25028187340c48ed9a94c723089ff953ebde5c74e74253eea14f031
-Description: Crashes SpringBoard repeatedly (can be removed in Safe Mode)
-Name: Fiona
+Filename: debs/com.captinc.yesbetapopup_1.0.0_iphoneos-arm.deb
+Size: 3564
+MD5sum: e069fdf17178fddf87cd0da400dbe8db
+SHA1: 5196dab9f6b66eca58ac7a8d9e7bca545a766593
+SHA256: 9c16de0a7bb2a058514c94b1c71de91a2f11b91bb293e8c6477a01c58e4cb445
+SHA512: 22e73590c31d32a6b0e1ec1418fdc60b09085e6e8154cb01f95319bcc7e44928e468cceae8f25b68c4e26984f6395899ec90cdd55d3ff6118b21dab8302cd2ae
+Description: Enables beta popup on stable iOS
+Name: YesBetaPopup
 Author: Capt Inc <mail@captinc.me>
-Icon: http://thanos.lol/resources/repoicons/fiona.jpeg
+Icon: http://thanos.lol/resources/repoicons/beta.png
+
+Package: com.censored.statustimeformatter
+Version: 1.00-1+debug
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Priority: optional
+Section: Tweaks
+Maintainer: WhitetailAni <joemama@thanos.lol>
+Architecture: iphoneos-arm
+Filename: debs/com.censored.statustimeformatter_1.00-1debug_iphoneos-arm.deb
+Size: 24940
+Installed-Size: 252
+MD5sum: e5be9b8fee541e5a42d7f648d3638b88
+SHA1: 51cce8f38a9c8b53b227b5d9320a4dac13b99886
+SHA256: 97143bcfb2648c9525b1d3543384e55abe53ec0547b5e29c23b26528e77342e4
+SHA512: 9b6363b32ab24acf926c3c2ce3a9dbe7ba66d390b1bb612423904f4b3a77459f72a2aeac4c795615d2a845e3599fd77ba07b4d55463538305e1a443d02a7854e
+Description: Replaces the time in status bar with an arbitrary string of text
+Name: StatusTimeFormatter
+Author: Anonymous <timcook@apple.com>
 
 Package: com.kjcracks.clutch13
 Version: 1.3
