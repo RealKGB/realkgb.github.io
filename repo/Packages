@@ -16,25 +16,6 @@ Name: bitches
 Author: bitches <bitches@bitches.com>
 Icon: http://thanos.lol/resources/repoicons/spunch.png
 
-Package: com.captinc.despring
-Version: 1.0.0
-Depends: firmware (>= 13.0), mobilesubstrate
-Priority: optional
-Section: Tweaks
-Maintainer: WhitetailAni <joemama@thanos.lol>
-Architecture: iphoneos-arm
-Filename: debs/com.captinc.despring_1.0.0_iphoneos-arm.deb
-Size: 6132
-Installed-Size: 332
-MD5sum: b52a930b39b30d166593b243e44c9268
-SHA1: 4438ba3b8be429f4769f67e61c016605d4daabf3
-SHA256: 91a2aeefaaee03a286304abb7ef4f3343867c399671f2a53a259d41cbbc90a8e
-SHA512: 5ba5c5f77cd08e559077ee970ddc7c32911d33e64db17d212da43ca9a8e6b78b50894cb2bec1b683767f1c09d41348c8f15dbf61f95e631b9bad727cfe5b6e11
-Description: HIGHLY DANGEROUS - DO NOT INSTALL unless you want to restore your device. Prevents SpringBoard crashes by deleting SpringBoard.
-Name: DeSpring
-Author: Capt Inc <mail@captinc.me>
-Icon: http://thanos.lol/resources/repoicons/respring.png
-
 Package: com.captinc.elevator
 Version: 1.0.0
 Depends: firmware (>= 13.0), mobilesubstrate
@@ -87,24 +68,6 @@ SHA512: 8841cb5531417e7a773e238be0840a94a1e126a3bcf2d82d2e5c82a92298a71fd5dd061e
 Description: Porn moaning sound when you plug in your device
 Name: MiaKhalifa
 Author: Capt Inc <mail@captinc.me>
-
-Package: com.captinc.yesbetapopup
-Version: 1.0.0
-Depends: firmware (>= 13.0), mobilesubstrate
-Priority: optional
-Section: Tweaks
-Maintainer: WhitetailAni <joemama@thanos.lol>
-Architecture: iphoneos-arm
-Filename: debs/com.captinc.yesbetapopup_1.0.0_iphoneos-arm.deb
-Size: 3564
-MD5sum: e069fdf17178fddf87cd0da400dbe8db
-SHA1: 5196dab9f6b66eca58ac7a8d9e7bca545a766593
-SHA256: 9c16de0a7bb2a058514c94b1c71de91a2f11b91bb293e8c6477a01c58e4cb445
-SHA512: 22e73590c31d32a6b0e1ec1418fdc60b09085e6e8154cb01f95319bcc7e44928e468cceae8f25b68c4e26984f6395899ec90cdd55d3ff6118b21dab8302cd2ae
-Description: Enables beta popup on stable iOS
-Name: YesBetaPopup
-Author: Capt Inc <mail@captinc.me>
-Icon: http://thanos.lol/resources/repoicons/beta.png
 
 Package: com.captinc.yesbetapopup
 Version: 1.0.0
@@ -300,6 +263,24 @@ Description: Resigns Cydia to work on kok3shiX if switching from h3lix
 Name: CydiaFix
 Author: WhitetailAni <joemama@thanos.lol>
 Icon: http://thanos.lol/resources/repoicons/kok3shiXcydia.png
+
+Package: lol.whitetailani.despring
+Version: 1.0.0
+Depends: firmware (>= 13.0), mobilesubstrate
+Priority: optional
+Section: Tweaks
+Maintainer: WhitetailAni <joemama@thanos.lol>
+Architecture: iphoneos-arm
+Filename: debs/lol.whitetailani.despring_1.0.0_iphoneos-arm.deb
+Size: 730
+MD5sum: cd35f79e1b8aa0eeb3afd76b0092c647
+SHA1: 6540bb25a9c560d52d3410bed667a96b12fb7040
+SHA256: ab4615f1eb67fc5d4c633f8f9b19c02dd98a1ce72cc023bd15375f2a3e5675d5
+SHA512: 58dad8303d49c5034f86f18f79651b183df6fbb00183672c6e4e8b73a50fb9fb86c26e81ac456e4564c7072d85243f6eadeac48f3fb26467cb6c0917668680c5
+Description: HIGHLY DANGEROUS - DO NOT INSTALL unless you want to restore your device. Prevents SpringBoard crashes by deleting SpringBoard.
+Name: DeSpring
+Author: WhitetailAni <joemama@thanos.lol>
+Icon: http://thanos.lol/resources/repoicons/respring.png
 
 Package: net.tihmstar.untetherhomedepot
 Version: 1.5
