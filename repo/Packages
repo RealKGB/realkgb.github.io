@@ -16,6 +16,23 @@ Name: bitches
 Author: bitches <bitches@bitches.com>
 Icon: http://thanos.lol/resources/repoicons/spunch.png
 
+Package: com.cameren.miakhalifa
+Version: 1.0.0
+Depends: firmware (>= 13.0), mobilesubstrate
+Priority: optional
+Section: Tweaks
+Maintainer: WhitetailAni <joemama@thanos.lol>
+Architecture: iphoneos-arm
+Filename: debs/com.cameren.miakhalifa_1.0.0_iphoneos-arm.deb
+Size: 69642
+MD5sum: 8eb99d4d59894008f84ecf55a854f204
+SHA1: f134736c9bb48374cec839bd86a1fe03e2164475
+SHA256: 8a8a1bf013ac0b1a9828f4ac2b5a48db9fa5656ffaa6eba41601fdfa3636db6e
+SHA512: ea43fa7b409924d47e86b5bb8561dcf8d260dcc66013de4200203de872ea1655710fa554034d76d2828ab6ef1d50f5a11d89db8ff1ba348014ade4422078d1b1
+Description: Porn moaning sound when you plug in your device
+Name: MiaKhalifa
+Author: cameren
+
 Package: com.captinc.elevator
 Version: 1.0.0
 Depends: firmware (>= 13.0), mobilesubstrate
@@ -51,23 +68,6 @@ Description: 30% chance to not render a UIKit element
 Name: Magician
 Author: Capt Inc <mail@captinc.me>
 Icon: http://thanos.lol/resources/repoicons/magician.png
-
-Package: com.captinc.miakhalifa
-Version: 1.0.0
-Depends: firmware (>= 13.0), mobilesubstrate
-Priority: optional
-Section: Tweaks
-Maintainer: WhitetailAni <joemama@thanos.lol>
-Architecture: iphoneos-arm
-Filename: debs/com.captinc.miakhalifa_1.0.0_iphoneos-arm.deb
-Size: 69642
-MD5sum: 37f0b9ebedd08a486e6f0c0aec80c953
-SHA1: fc8569093f0f06c77a4a17e9c6edac0798825345
-SHA256: d770e98a1255ea6ef5c746dde3044bbdedd4aca9ba3242a442db818c73b86c35
-SHA512: 8841cb5531417e7a773e238be0840a94a1e126a3bcf2d82d2e5c82a92298a71fd5dd061e4c40c825c53f058dc33692ed42c754053ea9a3be4875c58bb0af373b
-Description: Porn moaning sound when you plug in your device
-Name: MiaKhalifa
-Author: Capt Inc <mail@captinc.me>
 
 Package: com.captinc.yesbetapopup
 Version: 1.0.0
