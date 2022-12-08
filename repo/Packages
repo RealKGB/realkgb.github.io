@@ -246,7 +246,7 @@ Author: Ryan Petrich <rpetrich+activator@gmail.com>
 Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
 Depiction: http://rpetri.ch/cydia/activator/beta
 
-Package: lol.whitetailani.cydiafix
+Package: lol.whitetailani.cement
 Version: 15
 Priority: optional
 Section: Dangerous Tweaks
