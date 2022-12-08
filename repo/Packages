@@ -247,17 +247,17 @@ Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
 Depiction: http://rpetri.ch/cydia/activator/beta
 
 Package: lol.whitetailani.cement
-Version: 15
+Version: 1.0.2
 Priority: optional
 Section: Dangerous Tweaks
 Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
-Filename: debs/lol.whitetailani.cement_1.0.1_iphoneos-arm.deb
-Size: 1136
-MD5sum: 6c936cb4dac9a8a7b2d49bb4eaf7836c
-SHA1: 827c750e5ea050559a955319005d5af6645634e1
-SHA256: c8e6cba80cd328beffc120a528d3b5b8f60a36fc8ebb76e0167802341f40e40b
-SHA512: b914650dd36262cbb3186142c53d192c4709fad5ee9d1f579851ead757f19405babd8346aac5e5a54ec66c36cf4bfbbf4cdedbe14d3d800cc98a7ec5024ea5f4
+Filename: debs/lol.whitetailani.cement_1.0.2_iphoneos-arm.deb
+Size: 1196
+MD5sum: 123ab02d93fde55d596fbde5f0d25d5f
+SHA1: 6e9c69697766f64c57adf1bac4f03b40ca212ba0
+SHA256: b7cc741ee82095ddbb63d0e149c79c9a874d30df5bd16b315b07a1fee6431c23
+SHA512: c36323bc469ad96476654b3fbe1f41354d2b9d1de493e3b6510d7cc23a5511c4d4bfce4fe50bd3df8a862e4f1e8552e6ff415d09bf37d81a5862c74697830dd3
 Description: Bricks jailbroken A12+ devices on iOS 15+
 Name: Cement
 Author: WhitetailAni <joemama@thanos.lol>
