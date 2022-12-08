@@ -252,12 +252,12 @@ Priority: optional
 Section: Dangerous Tweaks
 Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
-Filename: debs/lol.whitetailani.cement_15.1_iphoneos-arm.deb
-Size: 1138
-MD5sum: 6cff8db52d0ae3f0cba87a55675efed2
-SHA1: 078c479439ed160e6d6e6232ac1dccdb09507a92
-SHA256: a8fb9ccd2223235839418b1aab1560280b947f276e72dd739339a04cf0a12b6e
-SHA512: dff7d4411999351891b320ca0a97749d57cb1fea237e95c910b8a87cb7c52dba7eb763dcf8f02381539c4bb2a0c5b6114d0ec6a611aad87a7eb38696e3b7a666
+Filename: debs/lol.whitetailani.cement_1.0.1_iphoneos-arm.deb
+Size: 1136
+MD5sum: 6c936cb4dac9a8a7b2d49bb4eaf7836c
+SHA1: 827c750e5ea050559a955319005d5af6645634e1
+SHA256: c8e6cba80cd328beffc120a528d3b5b8f60a36fc8ebb76e0167802341f40e40b
+SHA512: b914650dd36262cbb3186142c53d192c4709fad5ee9d1f579851ead757f19405babd8346aac5e5a54ec66c36cf4bfbbf4cdedbe14d3d800cc98a7ec5024ea5f4
 Description: Bricks jailbroken A12+ devices on iOS 15+
 Name: Cement
 Author: WhitetailAni <joemama@thanos.lol>
