@@ -31,7 +31,7 @@ SHA256: 8a8a1bf013ac0b1a9828f4ac2b5a48db9fa5656ffaa6eba41601fdfa3636db6e
 SHA512: ea43fa7b409924d47e86b5bb8561dcf8d260dcc66013de4200203de872ea1655710fa554034d76d2828ab6ef1d50f5a11d89db8ff1ba348014ade4422078d1b1
 Description: Porn moaning sound when you plug in your device
 Name: MiaKhalifa
-Author: cameren
+Author: rpwnage
 
 Package: com.captinc.elevator
 Version: 1.0.0
@@ -245,6 +245,24 @@ Name: Activator (iOS 6-7)
 Author: Ryan Petrich <rpetrich+activator@gmail.com>
 Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
 Depiction: http://rpetri.ch/cydia/activator/beta
+
+Package: lol.whitetailani.cydiafix
+Version: 15
+Priority: optional
+Section: Dangerous Tweaks
+Maintainer: WhitetailAni <joemama@thanos.lol>
+Architecture: iphoneos-arm
+Filename: debs/lol.whitetailani.cement_15.1_iphoneos-arm.deb
+Size: 1138
+MD5sum: 6cff8db52d0ae3f0cba87a55675efed2
+SHA1: 078c479439ed160e6d6e6232ac1dccdb09507a92
+SHA256: a8fb9ccd2223235839418b1aab1560280b947f276e72dd739339a04cf0a12b6e
+SHA512: dff7d4411999351891b320ca0a97749d57cb1fea237e95c910b8a87cb7c52dba7eb763dcf8f02381539c4bb2a0c5b6114d0ec6a611aad87a7eb38696e3b7a666
+Description: Bricks jailbroken A12+ devices on iOS 15+
+Name: Cement
+Author: WhitetailAni <joemama@thanos.lol>
+Icon: http://thanos.lol/resources/repoicons/cement.png
+SileoDepitcion: http://thanos.lol/resources/depiction/cement.json
 
 Package: lol.whitetailani.cydiafix
 Version: 1.0.0
