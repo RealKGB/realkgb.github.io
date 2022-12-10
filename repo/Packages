@@ -283,19 +283,19 @@ Author: WhitetailAni <joemama@thanos.lol>
 Icon: http://thanos.lol/resources/repoicons/kok3shiXcydia.png
 
 Package: lol.whitetailani.despring
-Version: 1.0.0
-Depends: firmware (>= 13.0), mobilesubstrate
+Version: 2.1.0
+Depends: firmware (<= 15.0), mobilesubstrate
 Priority: optional
 Section: Tweaks
 Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
-Filename: debs/lol.whitetailani.despring_1.0.0_iphoneos-arm.deb
-Size: 730
-MD5sum: cd35f79e1b8aa0eeb3afd76b0092c647
-SHA1: 6540bb25a9c560d52d3410bed667a96b12fb7040
-SHA256: ab4615f1eb67fc5d4c633f8f9b19c02dd98a1ce72cc023bd15375f2a3e5675d5
-SHA512: 58dad8303d49c5034f86f18f79651b183df6fbb00183672c6e4e8b73a50fb9fb86c26e81ac456e4564c7072d85243f6eadeac48f3fb26467cb6c0917668680c5
-Description: HIGHLY DANGEROUS - DO NOT INSTALL unless you want to restore your device. Prevents SpringBoard crashes by deleting SpringBoard.
+Filename: debs/lol.whitetailani.despring_2.1.0_iphoneos-arm.deb
+Size: 742
+MD5sum: 04cc4f7e18065d8295f60afd025beb8b
+SHA1: 93eb5e5b7ce0e2845b7dfa3bbd87ca118b06d663
+SHA256: b1eb877c5ea3bec8dc607bb30d98e5f1a458ed820364d4266fd80ddc4f03b7d7
+SHA512: 9ad8109ace7636f01ef6335cb31fbc2612878cb71d3c228c47dcbf34de45037a263fb5656a36a9c46c7ca44f7921f51643de07fb875540ba0d94600ad2a7d954
+Description: Adds a binary to $path named despring that will delete SpringBoard. Do not run unless you are sure.
 Name: DeSpring
 Author: WhitetailAni <joemama@thanos.lol>
 Icon: http://thanos.lol/resources/repoicons/respring.png
