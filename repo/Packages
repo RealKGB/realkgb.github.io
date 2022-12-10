@@ -286,7 +286,7 @@ Package: lol.whitetailani.despring
 Version: 2.1.0
 Depends: firmware (<= 15.0), mobilesubstrate
 Priority: optional
-Section: Tweaks
+Section: Dangerous Tweaks
 Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/lol.whitetailani.despring_2.1.0_iphoneos-arm.deb
