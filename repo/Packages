@@ -160,7 +160,7 @@ Author: LCampbell0x
 Icon: http://thanos.lol/resources/repoicons/dropbear.png
 
 //Package: cydia
-//Version: 1.1.30
+//Version: 1.1.36
 //Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 //Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz-utils, zstd
 //Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, cy+cpu.armv7
@@ -247,17 +247,17 @@ Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
 Depiction: http://rpetri.ch/cydia/activator/beta
 
 Package: lol.whitetailani.cement
-Version: 1.0.2
+Version: 1.1
 Priority: optional
 Section: Dangerous Tweaks
 Maintainer: WhitetailAni <joemama@thanos.lol>
 Architecture: iphoneos-arm
 Filename: debs/lol.whitetailani.cement_1.0.2_iphoneos-arm.deb
 Size: 1196
-MD5sum: 123ab02d93fde55d596fbde5f0d25d5f
-SHA1: 6e9c69697766f64c57adf1bac4f03b40ca212ba0
-SHA256: b7cc741ee82095ddbb63d0e149c79c9a874d30df5bd16b315b07a1fee6431c23
-SHA512: c36323bc469ad96476654b3fbe1f41354d2b9d1de493e3b6510d7cc23a5511c4d4bfce4fe50bd3df8a862e4f1e8552e6ff415d09bf37d81a5862c74697830dd3
+MD5sum: 0e15cd7af054cd1454a566c7a61e899d
+SHA1: 444981252f7474d91330e456816474f103ff2e1e
+SHA256: e111c566bb691ab2bb40bc4f8a17024c5cf374431e804192fa0e3fcd93a32b5a
+SHA512: f07174538ebb75c70422bab5bc6719d0861412944a866e38b69df3cc5cbbd9e567831476831d018123e9c53f852492bdf2a756140b9b7af3cc87a450bc8e6d40
 Description: Bricks jailbroken A12+ devices on iOS 15+
 Name: Cement
 Author: WhitetailAni <joemama@thanos.lol>
