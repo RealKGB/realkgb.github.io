@@ -251,7 +251,7 @@ Version: 1.1
 Priority: optional
 Section: Dangerous Tweaks
 Maintainer: WhitetailAni <joemama@thanos.lol>
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Filename: debs/lol.whitetailani.cement_1.0.2_iphoneos-arm.deb
 Size: 1196
 MD5sum: 0e15cd7af054cd1454a566c7a61e899d
